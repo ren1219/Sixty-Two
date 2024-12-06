@@ -4,7 +4,7 @@ Self-contained python script that converts old Minecraft skin formats (64x32) to
 # Usage
 - Download the repository, extract as a folder.
 - Use the "input" folder to insert your old format skins.
-- Run the script.
+- Run **main.py**.
 - The converted skins will be available in the "output" folder.
 
 # Skins
